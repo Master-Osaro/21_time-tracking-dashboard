@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Demo](#)
+- Live Site URL: [Live Demo](https://time-tracking-dashboard-o.netlify.app/)
 
 ## My process
 
