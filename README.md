@@ -54,7 +54,7 @@ Users should be able to:
 
 
 ## Author
-- Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/master-osaro)
 - Twitter - [@iyoha_osaro](https://www.twitter.com/yourusername)
 
 **Really had fun building!** 🚀
